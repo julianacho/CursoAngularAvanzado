@@ -17,4 +17,12 @@ ng g s services/usuario --spec=false
 // CREAR LOS GUARDS
 ng g g guards/auth --spec=false 
 
+// Proyecto Final del curso 
+https://github.com/Klerith/admipro-udemy
+
+// Charts
+Ng2-Charts
+
+
+
 
