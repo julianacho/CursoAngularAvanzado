@@ -1,0 +1,20 @@
+// subir el servidor y que bara el navegador
+ng serve -o
+ng serve --help
+ng serve --port=4201
+
+// Crear Proyecto
+ng new my-dream-app
+
+// CREAR COMPONENTES o paginas
+ng g c home
+ng g c pages/about -is --spec=false 
+ng g c pages/mainPage -is --spec=false --flat
+
+// CREAR SERVICIOS
+ng g s services/usuario --spec=false 
+
+// CREAR LOS GUARDS
+ng g g guards/auth --spec=false 
+
+
