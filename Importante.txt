@@ -23,6 +23,15 @@ https://github.com/Klerith/admipro-udemy
 // Charts
 Ng2-Charts
 
+/***************************
+node js
+****************************/
+npm init
+// Servidor 
+expressjs
+// inicar servidor
+npm start
+
 
 
 
